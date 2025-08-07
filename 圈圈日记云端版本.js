@@ -1,2 +1,2 @@
-const 云端版本 = 1;
-const 更新链接 = 'https://host.retiehe.com/';
+var 云端版本 = 1;
+var 更新链接 = 'https://host.retiehe.com/';
